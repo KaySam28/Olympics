@@ -34,6 +34,9 @@ The purpose of this analysis is to explore a dataset of the Olympics was to find
 My thanks go to Maven Analytics  for sharing this data. The licensing of the data can be found under the link below:
 https://app.mavenanalytics.io/datasets
 
+A link to my SQL querries are provided here and above in the Description .......................
+https://github.com/KaySam28/Olympics/blob/main/olly.sql
+
 
 
 
