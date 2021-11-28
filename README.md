@@ -41,4 +41,5 @@ https://github.com/KaySam28/Olympics/blob/main/olly.sql
 
 
 ## Visualisation <a name="Visualization"></a>
-Still working on the visualisation and to be posted soon.
+Below is a link to my visyalisation of my Olympics Analysis on tableau:
+https://public.tableau.com/app/profile/samuel.nyarko.osei.tutu/viz/Olympics_16380977327730/Dashboard1?publish=yes
